@@ -5,7 +5,7 @@ layout: default
 
 # Tam Nguyen 🌸
 
-Business & IT student at HWR Berlin · working at SAP Signavio · 📍 Berlin
+Business Intelligence & Process Management student at HWR Berlin · working at SAP Signavio · 📍 Berlin
 
 ---
 
@@ -34,7 +34,7 @@ I like going out, exploring new places, and I just finished my thesis on AI in c
 
 | Period | School | Degree |
 |:---|:---|:---|
-| 2022 – now | HWR Berlin | BSc International Digital Business |
+| 2022 – now | HWR Berlin | BSc Business Intelligence & Process Management |
 | 2024 – 2025 | USST Shanghai 🇨🇳 | Exchange Semester |
 | 2018 – 2021 | Frankenlandschule Walldürn | Abitur |
 
