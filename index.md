@@ -21,14 +21,12 @@ I like going out, exploring new places, and I just finished my thesis on AI in c
 
 ### 📷 Photos
 
-<img src="shanghai-night.jpg" width="680" />
-
-<div style="display:flex; gap:8px; margin-top:8px;">
-<img src="india-food.jpg" style="width:50%; aspect-ratio:1; object-fit:cover; object-position:center top;" />
-<img src="japan-osaka.jpg" style="width:50%; aspect-ratio:1; object-fit:cover;" />
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:8px;">
+<img src="shanghai-night.jpg" style="aspect-ratio:1; object-fit:cover;" />
+<img src="india-food.jpg" style="aspect-ratio:1; object-fit:cover; object-position:center top;" />
+<img src="japan-osaka.jpg" style="aspect-ratio:1; object-fit:cover;" />
+<img src="shanghai-view.jpg" style="aspect-ratio:1; object-fit:cover;" />
 </div>
-
-<img src="shanghai-view.jpg" width="680" style="margin-top:8px;" />
 
 ---
 
