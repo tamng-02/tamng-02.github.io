@@ -15,7 +15,7 @@ I'm from a small village called Schneeberg in Odenwald, Germany. After school I 
 
 I like going out, exploring new places, and I just finished my thesis on AI in companies.
 
-<img src="profile.jpg" width="680" />
+<img src="profile.jpg" class="profile" />
 
 ---
 
